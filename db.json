@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 12345,
+      "userName": "emusk",
+      "firstName": "Elon",
+	  "lastName": "Musk",
+	  "email": "elon.musk@test.com"
+    },
+	{
+      "id": 23456,
+      "userName": "emusk",
+      "firstName": "Elon",
+	  "lastName": "Musk",
+	  "email": "elon.musk@test.com"
+    },
+	{
+      "id": 34567,
+      "userName": "emusk",
+      "firstName": "Elon",
+	  "lastName": "Musk",
+	  "email": "elon.musk@test.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
