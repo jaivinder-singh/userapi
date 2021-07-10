@@ -1,25 +1,29 @@
 {
-  "users": [
-    {
-      "id": 12345,
-      "userName": "emusk",
-      "firstName": "Elon",
-	  "lastName": "Musk",
-	  "email": "elon.musk@test.com"
-    },
-	{
-      "id": 23456,
-      "userName": "emusk",
-      "firstName": "Elon",
-	  "lastName": "Musk",
-	  "email": "elon.musk@test.com"
-    },
-	{
-      "id": 34567,
-      "userName": "emusk",
-      "firstName": "Elon",
-	  "lastName": "Musk",
-	  "email": "elon.musk@test.com"
-    }
-  ]
+	"workhall": [
+		{
+			"id": 1,
+			"vacant": true,
+			"seatAvailable": "20"
+		},
+		{
+			"id": 2,
+			"vacant": true,
+			"seatAvailable": "40"
+		},
+		{
+			"id": 3,
+			"vacant": true,
+			"seatAvailable": "50"
+		},
+		{
+			"id": 4,
+			"vacant": true,
+			"seatAvailable": "60"
+		},
+		{
+			"id": 5,
+			"vacant": false,
+			"seatAvailable": "0"
+		}
+	]
 }
